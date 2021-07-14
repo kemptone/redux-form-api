@@ -1,0 +1,13 @@
+{
+  "name": "redux-form-api",
+  "version": "1.0.0",
+  "main": "redux-api.js",
+  "author": "= <=>",
+  "license": "ISC",
+  "dependencies": {
+    "j": "github:kemptone/j",
+    "redux-form": "^6.5.0",
+    "api": "github:kemptone/api"
+  },
+  "description": "package to connect redux-form with api"
+}
